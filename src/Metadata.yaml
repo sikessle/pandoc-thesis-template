@@ -1,0 +1,30 @@
+---
+title:  Thema der Masterarbeit
+subtitle: Masterarbeit zur Erlangung des akademischen Grades Master of Science (M. Sc.)
+author: Name Author
+street: Street
+zip: ZIP-Code
+city: City
+birthplace: Place of Birth
+birthdate: Birthdate
+issue-date: 01.01.2010
+final-date: 01.01.2011
+corrector1: Prof. Dr. ...
+corrector2: Prof. Dr. ...
+university: HTWG
+faculty: Informatik
+study: Informatik
+tags: [Tag1, Tag2]
+link-citations: true
+figureTitle: Abbildung
+figPrefix: Abbildung
+tableTitle: Tabelle
+tblPrefix: Tabelle
+documentclass: scrreprt
+papersize: A4
+fontsize: 11pt
+toctitle: Inhaltsverzeichnis
+abstract: |
+  Abstract of the Topic.
+  More Text..
+---
