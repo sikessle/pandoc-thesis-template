@@ -30,7 +30,6 @@ pdf:
 		-o ../$(OUT_FILE).pdf  \
 		$(COMMON_ARGS) \
 		--template=$(TEMPLATE).tex \
-		--include-in-header=$(PREAMBLE) \
-	&& open -a preview ../$(OUT_FILE).pdf
+		--include-in-header=$(PREAMBLE)
 
 
